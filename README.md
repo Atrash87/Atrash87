@@ -18,6 +18,8 @@ Connect with Me:
 <img src="./assets/logos/Power-Bi.png" alt="Power-Bi" width="80"/>
 
 
+[Watch the final project video]([Watch the final project video](https://your-link-here)
+)
 
 
 
