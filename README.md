@@ -22,5 +22,5 @@ Connect with Me:
 Using multivariate logistic regression and machine learning techniques to explore factors affecting depression risk.  
 **[Watch the final project video](https://youtu.be/1zrBwbUGR7Y)** ⬇️
 
-  <img src="./assets/logos/aa.png" width="1200"/>
+  <img src="./assets/logos/aa.png" width="1600"/>
 
