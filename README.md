@@ -17,10 +17,11 @@ Connect with Me:
 <img src="./assets/logos/statsmodel.png" alt="Statsmodels" width="80"/> &nbsp;
 <img src="./assets/logos/Tableau-Logo.png" alt="Tableau" width="80"/> &nbsp;
 <img src="./assets/logos/Power-Bi.png" alt="Power-Bi" width="80"/>&nbsp;
+<img src="./assets/logos/aaa.png" alt="Power-Bi" width="80"/>
 
 # Mental Wellbeing Analysis – Final Project
 Using multivariate logistic regression and machine learning techniques to explore factors affecting depression risk.  
 **[Watch the final project video](https://youtu.be/1zrBwbUGR7Y)** ⬇️
 
-  <img src="./assets/logos/aaa.png" width="650"/>
+
 
