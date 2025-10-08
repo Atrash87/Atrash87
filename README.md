@@ -21,6 +21,7 @@ Connect with Me:
 # Mental Wellbeing Analysis – Final Project
 Using multivariate logistic regression and machine learning techniques to explore factors affecting depression risk.  
 **[Watch the final project video](https://youtu.be/1zrBwbUGR7Y)** ⬇️
+<img src="./assets/logos/Power-Bi.png" alt="Power-Bi" width="80"/>
 
   <img src="./assets/logos/aa.png" width="80"/>
 
