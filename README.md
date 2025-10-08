@@ -2,9 +2,10 @@
 Data analyst | Python & SQL | Visualization & Analytics
 
 Connect with Me:
-       <a href="https://www.linkedin.com/in/hasan-atrash-657b0413a" target="_blank">
+<a href="https://www.linkedin.com/in/hasan-atrash-657b0413a" target="_blank">
   <img src="./assets/logos/IN.png" alt="LinkedIn" width="60"/>
 </a>
+
 ### Languages & Tools
 <img src="./assets/logos/python.jpg" alt="Python" width="40"/> &nbsp;
 <img src="./assets/logos/matlib.png" alt="Matplotlib" width="40"/> &nbsp;
@@ -17,12 +18,10 @@ Connect with Me:
 <img src="./assets/logos/Tableau-Logo.png" alt="Tableau" width="80"/> &nbsp;
 <img src="./assets/logos/Power-Bi.png" alt="Power-Bi" width="80"/>
 
-
+# Mental Wellbeing Analysis – Final Project
+Using multivariate logistic regression and machine learning techniques to explore factors affecting depression risk.  
+**[Watch the final project video](https://youtu.be/1zrBwbUGR7Y)** ⬇️
 
 <a href="https://youtu.be/1zrBwbUGR7Y" target="_blank">
-  <img src="./assets/logos/Thump_nailw.jpg" alt="Watch the final project video" width="150"/>
+  <img src="./assets/logos/Thump_nailw.JPG" alt="Watch the final project video" width="150"/>
 </a>
-
-
-
-
