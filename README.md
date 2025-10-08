@@ -26,5 +26,3 @@ Using multivariate logistic regression and machine learning techniques to explor
   <img src="./assets/logos/aa.png" width="500"/>
 </a>
 
-[![Watch the final project video](./assets/logos/aa.png)](https://youtu.be/1zrBwbUGR7Y)
-
