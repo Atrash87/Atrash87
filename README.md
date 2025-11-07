@@ -1,22 +1,39 @@
-# Hi there, I'm Hasan, PhD 👋
-Data analyst | Python & SQL | Visualization & Analytics
+<!-- Center everything -->
+<div align="center">
 
-Connect with Me:
-<a href="https://www.linkedin.com/in/hasan-atrash-657b0413a" target="_blank">
-  <img src="./assets/logos/IN.png" alt="LinkedIn" width="60"/>
-</a>
+# 👋 Hello, fellow <coders/>!  
+![Earth](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
-### Languages & Tools
+---
 
-<img src="./assets/logos/matlib.png" alt="Matplotlib" width="40"/> &nbsp;
-<img src="./assets/logos/numby.png" alt="NumPy" width="40"/> &nbsp;
-<img src="./assets/logos/pandas.png" alt="Pandas" width="80"/> &nbsp;
-<img src="./assets/logos/postgress.png" alt="PostgreSQL" width="40"/> &nbsp;
-<img src="./assets/logos/scipy.png" alt="SciPy" width="40"/> &nbsp;
-<img src="./assets/logos/seaborn.png" alt="Seaborn" width="40"/> &nbsp;
-<img src="./assets/logos/statsmodel.png" alt="Statsmodels" width="80"/> &nbsp;
-<img src="./assets/logos/Tableau-Logo.png" alt="Tableau" width="80"/> &nbsp;
-<img src="./assets/logos/Power-Bi.png" alt="Power-Bi" width="80"/>&nbsp;
- 
+## I’m **Hasan**, a Data Analyst 📊
+
+A **data-driven researcher** with years of **academic and applied experience** in  
+**statistical analysis**, **data exploration**, and **visual storytelling**.
+
+Currently sharpening my skills in  
+**Python 🐍**, **SQL 💾**, and **Machine Learning 🤖**,  
+while constantly improving my **auto-coding** and workflow automation skills.
+
+---
+
+🎯 *Passionate about turning raw data into clear insights  
+and making complex things beautifully simple.*
+
+![Coder](https://media.giphy.com/media/7j2hfyvVcDtf2/giphy.gif)
+
+---
+
+### 🌐 Check out my portfolio  
+👉 [**Hasan’s Portfolio**](#)  
+
+---
+
+### 💡 Fun Fact  
+> I have 13 reasons to stay curious — and learning is one of them 😄  
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 
