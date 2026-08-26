@@ -9,6 +9,8 @@ Connect with Me:
   <img src="./assets/logos/IN.png" alt="LinkedIn" width="60"/>
 </a>
 
+<a https://www.youtube.com/@Hasan-Atrash </a>
+
 ### Languages & Tools
 
 <img src="./assets/logos/matlib.png" alt="Matplotlib" width="40"/> &nbsp;
