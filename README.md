@@ -1,10 +1,7 @@
 # Hi there, I'm Hasan, PhD 👋
 Data analyst | Python & SQL | Visualization & Analytics
 
-
-[<img src="./assets/logos/IN.png" width="60"/>](https://www.linkedin.com/in/hasan-atrash-657b0413a)
-[Connect with me on LinkedIn](https://www.linkedin.com/in/hasan-atrash-657b0413a)  
-
+Connect with me: <a href="https://www.linkedin.com/in/hasan-atrash-657b0413a">LinkedIn</a> <img src="./assets/logos/IN.png" width="30" style="vertical-align:middle"/>
 
 
 ### Languages & Tools
