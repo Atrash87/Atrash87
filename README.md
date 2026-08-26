@@ -2,8 +2,9 @@
 Data analyst | Python & SQL | Visualization & Analytics
 
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/hasan-atrash-657b0413a)  
 [<img src="./assets/logos/IN.png" width="60"/>](https://www.linkedin.com/in/hasan-atrash-657b0413a)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/hasan-atrash-657b0413a)  
+
 
 
 ### Languages & Tools
