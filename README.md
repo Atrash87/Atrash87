@@ -7,7 +7,7 @@ Data analyst | Python & SQL | Visualization & Analytics
 Connect with Me:
 <a href="https://www.linkedin.com/in/hasan-atrash-657b0413a" target="_blank">
   <img src="./assets/logos/IN.png" alt="LinkedIn" width="60"/>
-</a>
+
 
 <a https://www.youtube.com/@Hasan-Atrash </a>
 
